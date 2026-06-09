@@ -1,28 +1,30 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a2f4a,100:0d1117&height=200&section=header&text=Pierre%20El%20Boustany&fontSize=48&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Systems%20%7C%20CS%20%26%20Statistics%20%40%20McGill&descAlignY=58&descAlign=50&descColor=8b949e"/>
+
+<h1>Pierre El Boustany</h1>
+
+<p><em>CS & Statistics @ McGill University &nbsp;·&nbsp; AI & Data Systems &nbsp;·&nbsp; Montreal, QC</em></p>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI+%26+data+systems+that+scale;Pipelines+%7C+Automation+%7C+Decision+Systems;From+raw+data+to+decisions+that+compound;Targeting+AI-driven+consulting+%26+products" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/pierre-elboustany">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:pierre.elboustany@mail.mcgill.ca">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/McGill_University-ED1B2F?style=for-the-badge&logo=academia&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Montreal%2C_QC-🇨🇦-555?style=for-the-badge"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=pierreb0501&style=for-the-badge&color=1a2f4a&label=VIEWS"/>
+
 </div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI+%26+data+systems+that+scale;Pipelines+%7C+Automation+%7C+Decision+Systems;From+raw+data+to+decisions+that+compound;Consulting+%7C+AI+Products+%7C+Automation" alt="Typing SVG"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pierre-elboustany">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/McGill_University-ED1B2F?style=for-the-badge&logo=academia&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Montreal%2C_QC-Canada-blue?style=for-the-badge"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=pierreb0501&style=for-the-badge&color=1a2f4a&label=VIEWS"/>
-</div>
-
-<br/>
 
 ---
 
@@ -113,8 +115,4 @@ Bank of Beirut   │ Global Markets Intern                            │ Summer
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pierreb0501&bg_color=0d1117&color=58A6FF&line=1a2f4a&point=58A6FF&area=true&hide_border=true&area_color=1a2f4a"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a2f4a,100:0d1117&height=100&section=footer"/>
 </div>
