@@ -102,7 +102,7 @@ I think in pipelines and second-order effects. My work spans banking, aviation s
 ## 💼 Experience
 
 ```
-CN Railway       │ Data Science – Fuel & Operations Optimization   │ May 2026 – Present
+CN Railway       │ Data Science – Fuel & Operations Optimization    │ May 2026 – Present
 Synechron        │ Geospatial Optimization (Banking Sector)         │ Jan 2026 – Apr 2026
 IATA             │ Aviation Safety Analytics                        │ Sep 2025 – Dec 2025
 Flowlytic        │ AI Automation Startup (Founder)                  │ May 2025 – Sep 2025
