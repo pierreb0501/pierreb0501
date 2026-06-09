@@ -35,7 +35,6 @@ CS & Statistics student at McGill (graduating Dec 2026), minor in Economics. I b
 I think in pipelines and second-order effects. My work spans banking, aviation safety, rail operations, and industrial data — always focused on turning raw data into decisions that scale.
 
 - **Currently:** Data Science Intern at CN Railway — fuel optimization, telemetry pipelines, Streamlit tooling replacing 6-person manual workflows
-- **Target:** AI & Data Consulting at Deloitte / Accenture Montreal
 - **Languages:** French (native) · English (fluent) · Arabic (working)
 
 ---
