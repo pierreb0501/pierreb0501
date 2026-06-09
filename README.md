@@ -24,6 +24,7 @@ I build systems at the intersection of AI, data, and automation — pipelines th
 | Project | Description | Stack |
 |---|---|---|
 | [personal-finance](https://github.com/pierreb0501/personal-finance) | Personal finance dashboard with Plaid bank sync and spending analytics | Next.js, TypeScript, Plaid, SQLite |
+| [BZNS](https://github.com/pierreb0501/BZNS) | AI copilot guiding aspiring entrepreneurs from idea to legally operating a micro-business in Québec | Next.js, TypeScript, Supabase — McGill Hackathon 2026 |
 | [Data-Collector-Ai-Agent](https://github.com/pierreb0501/Data-Collector-Ai-Agent) | AI agent for crypto/macro/stock data collection with GPT summarization | n8n, OpenAI, Supabase |
 
 ## Background
